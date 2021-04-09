@@ -1,0 +1,17 @@
+.body
+{
+
+    background-color:darkcyan;
+}
+
+
+.login_div1,.login_div2{
+    
+	
+		background: palevioletred;
+		padding: 10px;
+		float: none;
+		border-radius: 18px;
+	
+
+}
